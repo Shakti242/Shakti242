@@ -1,26 +1,21 @@
 # 👋 Hi, I'm Shakti Patel!  
 
-### 🚀 Software Engineer | Full Stack Developer | Cloud Enthusiast  
+🚀 **Software Engineer | Full Stack Developer | Cloud Enthusiast**  
 
-Passionate about building scalable applications, cloud solutions, and automation tools. Constantly learning and pushing boundaries in software development.  
+I love building scalable apps, automating workflows, and exploring cloud technologies. Passionate about problem-solving and creating impactful software.  
 
-## 🔧 Technologies & Tools  
+### 🔥 Tech Stack  
+🖥 **Frontend:** React.js, Next.js, Tailwind  
+⚙ **Backend:** Node.js, Express, Prisma  
+☁ **Cloud:** AWS (Lambda, S3, DynamoDB)  
+🛠 **Other:** Git, CI/CD, Docker  
 
-- **Frontend:** React.js, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express, Prisma  
-- **Databases:** PostgreSQL, MongoDB, DynamoDB  
-- **Cloud & DevOps:** AWS (Lambda, S3, EC2, API Gateway), Terraform, Docker  
-- **Other:** Git, CI/CD, Jest, Clerk Authentication  
+### 🌟 Featured Projects  
+🔹 [Cloud-Based File Storage](https://github.com/Shakti242/Cloud-Based-File-Storage-) – Secure AWS-powered file storage system  
+🔹 [Fuzzie](#) – Workflow automation alternative to Zapier  
+🔹 [Forest Fire Detection](https://github.com/Shakti242/Forest-Fire-Detection) – AI-powered wildfire detection  
 
-## 📌 Featured Projects  
+### 📫 Let's Connect!  
+[🔗 LinkedIn](https://linkedin.com/in/shakti-patel) | [📧 Email](mailto:shaktipatel@cmail.carleton.ca)  
 
-🔹 **[Cloud-Based File Storage](https://github.com/Shakti242/Cloud-Based-File-Storage-)** - Secure, scalable AWS-powered file storage system  
-🔹 **Fuzzie** - Workflow automation tool, an alternative to Zapier  
-🔹 **[Forest Fire Detection](https://github.com/Shakti242/Forest-Fire-Detection)** - YOLOv3-based wildfire detection  
-
-## 📫 Connect with Me  
-
-🔗 [LinkedIn](https://linkedin.com/in/shakti-patel)  
-📧 [Email](mailto:shaktipatel@cmail.carleton.ca)  
-
-Let's build something amazing together! 🚀
+🚀 _Let's build something amazing!_  
