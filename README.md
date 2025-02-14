@@ -18,4 +18,3 @@ I love building scalable apps, automating workflows, and exploring cloud technol
 ### 📫 Let's Connect!  
 [🔗 LinkedIn](https://linkedin.com/in/shakti-patel) | [📧 Email](mailto:shaktipatel@cmail.carleton.ca)  
 
-🚀 _Let's build something amazing!_  
